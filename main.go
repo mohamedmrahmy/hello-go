@@ -8,4 +8,5 @@ func main() {
 	res := x * y
 	fmt.Println("My first Go project")
 	fmt.Println(res)
+	fmt.Println("Built by Mohamed Rahmy")
 }
